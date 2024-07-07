@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @gustavo-sts
+- 👀 I’m interested in learning and improve my programming skills.
+- 🌱 I’m currently learning Javascript, Html, Css and others next.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: email:
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
