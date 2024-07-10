@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gustavo-sts
+- 👋 Hi, I’m Gustavo da S. Santos.
 - 👀 I’m interested in learning and improve my programming skills.
 - 🌱 I’m currently learning Javascript, Html, Css and others next.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: email:
+- 📫 How to reach me: email - gustavo.profissional@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
